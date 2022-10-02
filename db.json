@@ -1,0 +1,942 @@
+{
+    "tv":[{
+        
+          "image_href": "https://www.bestbuy.com/site/insignia-70-class-f30-series-led-4k-uhd-smart-fire-tv/6492968.p?skuId=6492968",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6492/6492968_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 1,
+          "tv_title": "Insignia™ - 70\" Class F30 Series LED 4K UHD Smart Fire TV",
+          "sku-value": "NS-70F301NA23",
+          "sku-value 2": 6492968,
+          
+          "visually-hidden": "Rating 5 out of 5 stars with 2 reviews",
+          "c-reviews": -2,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Act Fast – Only 3 left at your store!",
+          
+          "tv_price": "$449.99",
+          "sr-only": "Your price for this item is $449.99",
+          "pricing-price__savings": "Save $200",
+          "pricing-price__regular-price": "Was $649.99",
+          "pricing-price__regular-price 2": "The previous price was $649.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "Free Echo Show 5 & 2 more",
+          "gift-with-purchase-price__total-message-medium": "A $84.99 value"
+        
+          
+          
+          
+          
+         
+          
+        },
+        { 
+          "image_href": "https://www.bestbuy.com/site/insignia-40-class-n10-series-led-full-hd-tv/6398122.p?skuId=6398122",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6398/6398122_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 2,
+          "tv_title": "Insignia™ - 40\" Class N10 Series LED Full HD TV",
+          "sku-value": "NS-40D510NA21",
+          "sku-value 2": 6398122,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 3758 reviews",
+          "c-reviews": "-3,758",
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$149.99",
+          "sr-only": "Your price for this item is $149.99",
+          "pricing-price__savings": "Save $40",
+          "pricing-price__regular-price": "Was $189.99",
+          "pricing-price__regular-price 2": "The previous price was $189.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $131.99"
+          
+          
+          
+          
+         
+          
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/samsung-75-class-qn85b-neo-qled-4k-smart-tizen-tv/6500302.p?skuId=6500302",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500302_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 3,
+          "tv_title": "Samsung - 75” Class QN85B Neo QLED 4K Smart Tizen TV",
+          "sku-value": "QN75QN85BAFXZA",
+          "sku-value 2": 6500302,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 72 reviews",
+          "c-reviews": -72,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Delivery:",
+          
+          "tv_price": "$2,299.99",
+          "sr-only": "Your price for this item is $2,299.99",
+          "pricing-price__savings": "Save $500",
+          "pricing-price__regular-price": "Was $2,799.99",
+          "pricing-price__regular-price 2": "The previous price was $2,799.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $1,816.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 75,
+          
+          
+          "text-variation": 55,
+         
+          "text-variation 2": 65
+        },
+        {
+        
+          "image_href": "https://www.bestbuy.com/site/samsung-65-class-q80b-qled-4k-smart-tizen-tv/6503080.p?skuId=6503080",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6503/6503080_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 4,
+          "tv_title": "Samsung - 65” Class Q80B QLED 4K Smart Tizen TV",
+          "sku-value": "QN65Q80BAFXZA",
+          "sku-value 2": 6503080,
+          
+          "visually-hidden": "Rating 4.7 out of 5 stars with 191 reviews",
+          "c-reviews": -191,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Delivery:",
+          
+          "tv_price": "$1,199.99",
+          "sr-only": "Your price for this item is $1,199.99",
+          "pricing-price__savings": "Save $300",
+          "pricing-price__regular-price": "Was $1,499.99",
+          "pricing-price__regular-price 2": "The previous price was $1,499.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $1,078.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 65,
+          
+          
+          "text-variation": 50,
+         
+          "text-variation 2": 55
+        },
+        {
+        
+          "image_href": "https://www.bestbuy.com/site/toshiba-43-class-c350-series-led-4k-uhd-smart-fire-tv/6458651.p?skuId=6458651",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6458/6458651_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 5,
+          "tv_title": "Toshiba - 43\" Class C350 Series LED 4K UHD Smart Fire TV",
+          "sku-value": "43C350KU",
+          "sku-value 2": 6458651,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 768 reviews",
+          "c-reviews": -768,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$249.99",
+          "sr-only": "Your price for this item is $249.99",
+          "pricing-price__savings": "Save $80",
+          "pricing-price__regular-price": "Was $329.99",
+          "pricing-price__regular-price 2": "The previous price was $329.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "Free Echo Show 5 & 2 more",
+          "gift-with-purchase-price__total-message-medium": "A $84.99 value",
+          
+          "open-box-option__link-medium": "from $201.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 43,
+          
+          
+          "text-variation": 50,
+         
+          "text-variation 2": 55
+        },
+        {
+        
+          "image_href": "https://www.bestbuy.com/site/samsung-55-class-8000-series-led-4k-uhd-smart-tizen-tv/6452996.p?skuId=6452996",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6452/6452996_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 6,
+          "tv_title": "Samsung - 55\" Class 8000 Series LED 4K UHD Smart Tizen TV",
+          "sku-value": "UN55AU8000FXZA",
+          "sku-value 2": 6452996,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 1207 reviews",
+          "c-reviews": "-1,207",
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Delivery:",
+          
+          "tv_price": "$499.99",
+          "sr-only": "Your price for this item is $499.99",
+          "pricing-price__savings": "",
+          "pricing-price__regular-price": "",
+          "pricing-price__regular-price 2": "",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $231.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 55,
+          
+          
+          "text-variation": 43,
+         
+          "text-variation 2": 50
+        },
+        {
+        
+          "image_href": "https://www.bestbuy.com/site/insignia-24-class-f20-series-led-full-hd-smart-fire-tv/6446230.p?skuId=6446230",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6446/6446230_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 7,
+          "tv_title": "Insignia™ - 24\" Class F20 Series LED Full HD Smart Fire TV",
+          "sku-value": "NS-24F202NA22",
+          "sku-value 2": 6446230,
+          
+          "visually-hidden": "Rating 4.5 out of 5 stars with 753 reviews",
+          "c-reviews": -753,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$119.99",
+          "sr-only": "Your price for this item is $119.99",
+          "pricing-price__savings": "Save $70",
+          "pricing-price__regular-price": "Was $189.99",
+          "pricing-price__regular-price 2": "The previous price was $189.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "Free Echo Show 5 & 2 more",
+          "gift-with-purchase-price__total-message-medium": "A $84.99 value",
+          
+          "open-box-option__link-medium": "from $93.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 24,
+          
+          
+          "text-variation": 32,
+         
+          "text-variation 2": 42
+        },
+        {
+        
+          "image_href": "https://www.bestbuy.com/site/samsung-65-class-q70a-series-qled-4k-uhd-smart-tizen-tv/6451476.p?skuId=6451476",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6451/6451476_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 8,
+          "tv_title": "Samsung - 65\" Class  Q70A Series QLED 4K UHD Smart Tizen TV",
+          "sku-value": "QN65Q70AAFXZA",
+          "sku-value 2": 6451476,
+          
+          "visually-hidden": "Rating 4.7 out of 5 stars with 1016 reviews",
+          "c-reviews": "-1,016",
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Delivery:",
+          
+          "tv_price": "$999.99",
+          "sr-only": "Your price for this item is $999.99",
+          "pricing-price__savings": "Save $200",
+          "pricing-price__regular-price": "Was $1,199.99",
+          "pricing-price__regular-price 2": "The previous price was $1,199.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $759.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 65,
+          
+          
+          "text-variation": 55,
+         
+          "text-variation 2": 75
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/sony-55-class-x75k-4k-hdr-led-google-tv/6505137.p?skuId=6505137",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505137_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 9,
+          "tv_title": "Sony - 55\" class X75K 4K HDR LED Google TV",
+          "sku-value": "KD55X75K",
+          "sku-value 2": 6505137,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 82 reviews",
+          "c-reviews": -82,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Delivery:",
+          
+          "tv_price": "$499.99",
+          "sr-only": "Your price for this item is $499.99",
+          "pricing-price__savings": "Save $150",
+          "pricing-price__regular-price": "Was $649.99",
+          "pricing-price__regular-price 2": "The previous price was $649.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $460.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 55,
+          
+          
+          "text-variation": 65
+         
+          
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/samsung-58-class-tu690t-series-led-4k-uhd-smart-tizen-tv/6512703.p?skuId=6512703",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6512/6512703_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 10,
+          "tv_title": "Samsung - 58\" Class TU690T Series LED 4K UHD Smart Tizen TV",
+          "sku-value": "UN58TU690TFXZA",
+          "sku-value 2": 6512703,
+          
+          "visually-hidden": "Rating 5 out of 5 stars with 2 reviews",
+          "c-reviews": -2,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Delivery:",
+          
+          "tv_price": "$429.99",
+          "sr-only": "Your price for this item is $429.99",
+          "pricing-price__savings": "Save $20",
+          "pricing-price__regular-price": "Was $449.99",
+          "pricing-price__regular-price 2": "The previous price was $449.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $407.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 58,
+          
+          
+          "text-variation": 50,
+         
+          "text-variation 2": 60
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/hisense-40-class-a4g-series-led-full-hd-smart-vidaa-tv/6511284.p?skuId=6511284",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6511/6511284_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 11,
+          "tv_title": "Hisense - 40\" Class A4G Series LED  Full HD Smart Vidaa TV",
+          "sku-value": "40A4GV",
+          "sku-value 2": 6511284,
+          
+          "visually-hidden": "Rating 4.1 out of 5 stars with 51 reviews",
+          "c-reviews": -51,
+          "fulfillment-fulfillment-summary": "Get it in 2-3 weeks",
+          "fulfillment-fulfillment-summary 3": "Order now for pickup on Thu, Oct 13 at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$179.99",
+          "sr-only": "Your price for this item is $179.99",
+          "pricing-price__savings": "Save $70",
+          "pricing-price__regular-price": "Was $249.99",
+          "pricing-price__regular-price 2": "The previous price was $249.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $168.99"
+          
+          
+          
+          
+         
+          
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/samsung-32-class-n5300-series-led-full-hd-smart-tizen-tv/6202106.p?skuId=6202106",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6202/6202106_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 12,
+          "tv_title": "Samsung - 32\" Class N5300 Series LED Full HD Smart Tizen TV",
+          "sku-value": "UN32N5300AFXZA",
+          "sku-value 2": 6202106,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 6998 reviews",
+          "c-reviews": "-6,998",
+          "fulfillment-fulfillment-summary": "Get it in 2-3 weeks",
+          "fulfillment-fulfillment-summary 3": "Order now for pickup on Thu, Oct 13 at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$229.99",
+          "sr-only": "Your price for this item is $229.99",
+          "pricing-price__savings": "",
+          "pricing-price__regular-price": "",
+          "pricing-price__regular-price 2": "",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $186.99"
+          
+          
+          
+          
+         
+          
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/insignia-24-class-n10-series-led-hd-tv/6394746.p?skuId=6394746",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6394/6394746_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 13,
+          "tv_title": "Insignia™ - 24\" Class N10 Series LED HD TV",
+          "sku-value": "NS-24D310NA21",
+          "sku-value 2": 6394746,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 2078 reviews",
+          "c-reviews": "-2,078",
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$79.99",
+          "sr-only": "Your price for this item is $79.99",
+          "pricing-price__savings": "Save $20",
+          "pricing-price__regular-price": "Was $99.99",
+          "pricing-price__regular-price 2": "The previous price was $99.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $66.99"
+          
+          
+          
+          
+         
+          
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/samsung-32-class-q60a-series-qled-4k-uhd-smart-tizen-tv/6465202.p?skuId=6465202",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6465/6465202_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 14,
+          "tv_title": "Samsung - 32\" Class Q60A Series  QLED 4K UHD Smart Tizen TV",
+          "sku-value": "QN32Q60AAFXZA",
+          "sku-value 2": 6465202,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 467 reviews",
+          "c-reviews": -467,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$499.99",
+          "sr-only": "Your price for this item is $499.99",
+          "pricing-price__savings": "",
+          "pricing-price__regular-price": "",
+          "pricing-price__regular-price 2": "",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $382.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 32,
+          
+          
+          "text-variation": 55,
+         
+          "text-variation 2": 65
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/tcl-55-class-4-series-led-4k-uhd-smart-google-tv/6470247.p?skuId=6470247",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6470/6470247_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 15,
+          "tv_title": "TCL 55\" Class 4-Series LED 4K UHD Smart Google TV",
+          "sku-value": "55S446",
+          "sku-value 2": 6470247,
+          
+          "visually-hidden": "Rating 4.4 out of 5 stars with 375 reviews",
+          "c-reviews": -375,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Delivery:",
+          
+          "tv_price": "$319.99",
+          "sr-only": "Your price for this item is $319.99",
+          "pricing-price__savings": "Save $30",
+          "pricing-price__regular-price": "Was $349.99",
+          "pricing-price__regular-price 2": "The previous price was $349.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $290.99",
+          "product-variation-name": "Screen Size Class:",
+          "hover-name": 55,
+          
+          
+          "text-variation": 43,
+         
+          "text-variation 2": 50
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/toshiba-32-class-v35-series-led-hd-smart-fire-tv/6472252.p?skuId=6472252",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6472/6472252_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 16,
+          "tv_title": "Toshiba - 32\" Class V35 Series LED HD Smart Fire TV",
+          "sku-value": "32V35KU",
+          "sku-value 2": 6472252,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 409 reviews",
+          "c-reviews": -409,
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$139.99",
+          "sr-only": "Your price for this item is $139.99",
+          "pricing-price__savings": "Save $60",
+          "pricing-price__regular-price": "Was $199.99",
+          "pricing-price__regular-price 2": "The previous price was $199.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "Free Echo Show 5 & 2 more",
+          "gift-with-purchase-price__total-message-medium": "A $84.99 value",
+          
+          "open-box-option__link-medium": "from $115.99"
+          
+          
+          
+          
+         
+          
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/lg-27-class-led-full-hd-smart-tv-monitor-with-webos/6506780.p?skuId=6506780",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6506/6506780_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 17,
+          "tv_title": "LG - 27\" Class LED Full HD Smart TV Monitor with webOS",
+          "sku-value": "27LQ625S-PU",
+          "sku-value 2": 6506780,
+          
+          "visually-hidden": "Rating 4.3 out of 5 stars with 57 reviews",
+          "c-reviews": -57,
+          "fulfillment-fulfillment-summary": "Get it today nearby",
+          "fulfillment-fulfillment-summary 3": "Order now for pickup on Sat, Oct 8 at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$179.99",
+          "sr-only": "Your price for this item is $179.99",
+          "pricing-price__savings": "Save $20",
+          "pricing-price__regular-price": "Was $199.99",
+          "pricing-price__regular-price 2": "The previous price was $199.99",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $163.99"
+          
+          
+          
+          
+         
+          
+        },
+        {
+          "image_href": "https://www.bestbuy.com/site/insignia-32-class-n10-series-led-hd-tv/6395127.p?skuId=6395127",
+          "product_imgUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6395/6395127_sd.jpg;maxHeight=200;maxWidth=300",
+          "id": 18,
+          "tv_title": "Insignia™ - 32\" Class N10 Series LED HD TV",
+          "sku-value": "NS-32D310NA21",
+          "sku-value 2": 6395127,
+          
+          "visually-hidden": "Rating 4.6 out of 5 stars with 3484 reviews",
+          "c-reviews": "-3,484",
+          "fulfillment-fulfillment-summary": "Get it today",
+          "fulfillment-fulfillment-summary 3": "Ready in 1 hour at Aiea",
+          "fulfillment-fulfillment-summary 4": "Shipping:",
+          
+          "tv_price": "$129.99",
+          "sr-only": "Your price for this item is $129.99",
+          "pricing-price__savings": "",
+          "pricing-price__regular-price": "",
+          "pricing-price__regular-price 2": "",
+          "gift-with-purchase-price__free-gift-message-medium-block": "",
+          "gift-with-purchase-price__total-message-medium": "",
+          
+          "open-box-option__link-medium": "from $107.99"
+          
+          
+          
+          
+         
+          
+        }
+      ],
+      "watches":[
+          {
+            "id":1,
+            "image-link href": "https://www.bestbuy.com/site/samsung-galaxy-watch5-pro-titanium-smartwatch-45mm-bt-black/6510873.p?skuId=6510873",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510873_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Samsung - Galaxy Watch5 Pro Titanium Smartwatch 45mm BT - Black",
+            "visually-hidden": "Rating 4.8 out of 5 stars with 144 reviews",
+            "fulfillment-fulfillment-summary": "Get it in 11 days",
+            "fulfillment-fulfillment-summary 3": "Order now for pickup on Thu, Oct 13 at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "Shipping:",
+            "fulfillment-fulfillment-summary 5": "Unavailable in your area",
+            "fulfillment-fulfillment-summary 6": "This item is only available in certain markets.",
+            "watch_price": "$449.99",
+            "sr-only 4": "Your price for this item is $449.99",
+            "open-box-option__link-medium": "from $368.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          },
+          {
+            "id":2,
+            "image-link href": "https://www.bestbuy.com/site/samsung-galaxy-watch4-aluminum-smartwatch-40mm-bt-black/6464591.p?skuId=6464591",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6464/6464591_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Samsung - Galaxy Watch4 Aluminum Smartwatch 40mm BT - Black",
+            "visually-hidden": "Rating 4.6 out of 5 stars with 2093 reviews",
+            "fulfillment-fulfillment-summary": "Get it today",
+            "fulfillment-fulfillment-summary 3": "Available today at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "Act Fast – Only 3 left at your store!",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$199.99",
+            "sr-only 4": "Your price for this item is $199.99",
+            "open-box-option__link-medium": "from $149.99",
+            "fulfillment-fulfillment-summary 7": "This item is only available in certain markets.",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          },
+          {
+            "id":3,
+            "image-link href": "https://www.bestbuy.com/site/samsung-galaxy-watch4-aluminum-smartwatch-44mm-bt-black/6464594.p?skuId=6464594",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6464/6464594_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Samsung - Galaxy Watch4 Aluminum Smartwatch 44mm BT - Black",
+            "visually-hidden": "Rating 4.6 out of 5 stars with 1412 reviews",
+            "fulfillment-fulfillment-summary": "Get it in 11 days",
+            "fulfillment-fulfillment-summary 3": "Order now for pickup on Thu, Oct 13 at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$199.99",
+            "sr-only 4": "Your price for this item is $199.99",
+            "open-box-option__link-medium": "from $149.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "Save $80",
+            "pricing-price__regular-price": "Was $279.99",
+            "pricing-price__regular-price 2": "The previous price was $279.99",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          },
+          {
+            "id":4,
+            "image-link href": "https://www.bestbuy.com/site/apple-watch-se-1st-generation-gps-40mm-gold-aluminum-case-with-starlight-sport-band-gold/5706647.p?skuId=5706647",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5706/5706647_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Apple Watch SE (1st Generation GPS) 40mm Gold Aluminum Case with Starlight Sport Band - Gold",
+            "visually-hidden": "Rating 4.8 out of 5 stars with 7221 reviews",
+            "fulfillment-fulfillment-summary": "Get it today",
+            "fulfillment-fulfillment-summary 3": "Available today at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$229.00",
+            "sr-only 4": "Your price for this item is $229.00",
+            "open-box-option__link-medium": "from $171.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "Save $50",
+            "pricing-price__regular-price": "Was $279.00",
+            "pricing-price__regular-price 2": "The previous price was $279.00",
+            "gift-with-purchase-price__free-gift-message-medium-inline": "4 free months of Apple Fitness+"
+          },
+          {
+            "id":5,
+            "image-link href": "https://www.bestbuy.com/site/apple-watch-se-gps-44mm-midnight-aluminum-case-with-midnight-sport-band-m-l-midnight/6340244.p?skuId=6340244",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6340/6340244_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Apple Watch SE (GPS) 44mm Midnight Aluminum Case with Midnight Sport Band - M/L - Midnight",
+            "visually-hidden": "Rating 4.9 out of 5 stars with 8 reviews",
+            "fulfillment-fulfillment-summary": "Get it today nearby",
+            "fulfillment-fulfillment-summary 3": "Order now for pickup on Thu, Oct 13 at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "Available today at a location 6 miles away",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$279.00",
+            "sr-only 4": "Your price for this item is $279.00",
+            "open-box-option__link-medium": "from $250.99",
+            "fulfillment-fulfillment-summary 7": "This item is only available in certain markets.",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": "4 free months of Apple Fitness+ & 1 more",
+            "new-indicator": "New!"
+          },
+          {
+            "id":6,
+            "image-link href": "https://www.bestbuy.com/site/garmin-instinct-gps-smartwatch-45mm-fiber-reinforced-polymer-graphite/6315353.p?skuId=6315353",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6315/6315353_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Garmin - Instinct GPS Smartwatch 45mm Fiber-Reinforced Polymer - Graphite",
+            "visually-hidden": "Rating 4.6 out of 5 stars with 1105 reviews",
+            "fulfillment-fulfillment-summary": "Get it in 4 days",
+            "fulfillment-fulfillment-summary 3": "Order now for pickup on Thu, Oct 6 at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$229.99",
+            "sr-only 4": "Your price for this item is $229.99",
+            "open-box-option__link-medium": "",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          },
+          {
+            "id":7,
+            "image-link href": "https://www.bestbuy.com/site/samsung-galaxy-watch5-aluminum-smartwatch-40mm-bt-pink-gold/6510876.p?skuId=6510876",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510876_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Samsung - Galaxy Watch5 Aluminum Smartwatch 40mm BT - Pink Gold",
+            "visually-hidden": "Rating 4.6 out of 5 stars with 149 reviews",
+            "fulfillment-fulfillment-summary": "Get it today",
+            "fulfillment-fulfillment-summary 3": "Available today at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$279.99",
+            "sr-only 4": "Your price for this item is $279.99",
+            "open-box-option__link-medium": "from $229.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          },
+          {
+            "id":8,
+            "image-link href": "https://www.bestbuy.com/site/fitbit-versa-2-health-fitness-smartwatch-carbon/6364307.p?skuId=6364307",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6364/6364307_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Fitbit - Versa 2 Health & Fitness Smartwatch - Carbon",
+            "visually-hidden": "Rating 4.5 out of 5 stars with 7154 reviews",
+            "fulfillment-fulfillment-summary": "Get it today",
+            "fulfillment-fulfillment-summary 3": "Available today at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$149.95",
+            "sr-only 4": "Your price for this item is $149.95",
+            "open-box-option__link-medium": "",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          },
+          {
+            "id":9,
+            "image-link href": "https://www.bestbuy.com/site/samsung-galaxy-watch5-pro-titanium-smartwatch-45mm-lte-black/6510871.p?skuId=6510871",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510871_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Samsung - Galaxy Watch5 Pro Titanium Smartwatch 45mm LTE - Black",
+            "visually-hidden": "Rating 4.6 out of 5 stars with 85 reviews",
+            "fulfillment-fulfillment-summary": "Get it today",
+            "fulfillment-fulfillment-summary 3": "Available today at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "Act Fast – Only 1 left at your store!",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$499.99",
+            "sr-only 4": "Your price for this item is $499.99",
+            "open-box-option__link-medium": "from $409.99",
+            "fulfillment-fulfillment-summary 7": "This item is only available in certain markets.",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          },
+          {
+            "id":10,
+            "image-link href": "https://www.bestbuy.com/site/samsung-galaxy-watch5-aluminum-smartwatch-40mm-lte-pink-gold/6510874.p?skuId=6510874",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510874_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Samsung - Galaxy Watch5 Aluminum Smartwatch 40mm LTE - Pink Gold",
+            "visually-hidden": "Rating 4.7 out of 5 stars with 38 reviews",
+            "fulfillment-fulfillment-summary": "Get it in 11 days",
+            "fulfillment-fulfillment-summary 3": "Order now for pickup on Thu, Oct 13 at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$329.99",
+            "sr-only 4": "Your price for this item is $329.99",
+            "open-box-option__link-medium": "from $270.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          },
+          {
+            "id":11,
+            "image-link href": "https://www.bestbuy.com/site/apple-watch-series-7-gps-cellular-45mm-midnight-aluminum-case-with-midnight-sport-band-midnight/6339667.p?skuId=6339667",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6339/6339667_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Apple Watch Series 7 (GPS + Cellular) 45mm Midnight Aluminum Case with Midnight Sport Band - Midnight",
+            "visually-hidden": "Rating 4.8 out of 5 stars with 922 reviews",
+            "fulfillment-fulfillment-summary": "Get it in 11 days",
+            "fulfillment-fulfillment-summary 3": "Order now for pickup on Thu, Oct 13 at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$459.00",
+            "sr-only 4": "Your price for this item is $459.00",
+            "open-box-option__link-medium": "from $320.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "Save $70",
+            "pricing-price__regular-price": "Was $529.00",
+            "pricing-price__regular-price 2": "The previous price was $529.00",
+            "gift-with-purchase-price__free-gift-message-medium-inline": "4 free months of Apple Fitness+"
+          },
+          {
+            "id":12,
+            "image-link href": "https://www.bestbuy.com/site/samsung-galaxy-watch4-classic-stainless-steel-smartwatch-42mm-bt-black/6464595.p?skuId=6464595",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6464/6464595_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Samsung - Galaxy Watch4 Classic Stainless Steel Smartwatch 42mm BT - Black",
+            "visually-hidden": "Rating 4.4 out of 5 stars with 636 reviews",
+            "fulfillment-fulfillment-summary": "Unavailable nearby",
+            "fulfillment-fulfillment-summary 3": "Unavailable within 250 miles of Aiea",
+            "c-button-link": "Update location",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$249.99",
+            "sr-only 4": "Your price for this item is $249.99",
+            "open-box-option__link-medium": "from $174.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "Save $100",
+            "pricing-price__regular-price": "Was $349.99",
+            "pricing-price__regular-price 2": "The previous price was $349.99",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          },
+          {
+            "id":13,
+            "image-link href": "https://www.bestbuy.com/site/apple-watch-series-7-gps-45mm-midnight-aluminum-case-with-midnight-sport-band-midnight/6215938.p?skuId=6215938",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6215/6215938_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Apple Watch Series 7 (GPS) 45mm Midnight Aluminum Case with Midnight Sport Band - Midnight",
+            "visually-hidden": "Rating 4.8 out of 5 stars with 5512 reviews",
+            "fulfillment-fulfillment-summary": "Get it today",
+            "fulfillment-fulfillment-summary 3": "Available today at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$429.00",
+            "sr-only 4": "Your price for this item is $429.00",
+            "open-box-option__link-medium": "from $334.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": "4 free months of Apple Fitness+"
+          },
+          {
+            "id":14,
+            "image-link href": "https://www.bestbuy.com/site/apple-watch-se-1st-generation-gps-44mm-space-gray-aluminum-case-with-sport-band-space-gray/5706662.p?skuId=5706662",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5706/5706662_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Apple Watch SE (1st Generation GPS) 44mm Space Gray Aluminum Case with Sport Band - Space Gray",
+            "visually-hidden": "Rating 4.8 out of 5 stars with 4485 reviews",
+            "fulfillment-fulfillment-summary": "Get it today",
+            "fulfillment-fulfillment-summary 3": "Available today at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$259.00",
+            "sr-only 4": "Your price for this item is $259.00",
+            "open-box-option__link-medium": "from $214.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "Save $50",
+            "pricing-price__regular-price": "Was $309.00",
+            "pricing-price__regular-price 2": "The previous price was $309.00",
+            "gift-with-purchase-price__free-gift-message-medium-inline": "4 free months of Apple Fitness+"
+          },
+          {
+            "id":15,
+            "image-link href": "https://www.bestbuy.com/site/apple-watch-se-gps-40mm-midnight-aluminum-case-with-midnight-sport-band-s-m-midnight/6340237.p?skuId=6340237",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6340/6340237_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Apple Watch SE (GPS) 40mm Midnight Aluminum Case with Midnight Sport Band - S/M - Midnight",
+            "visually-hidden": "Rating 5 out of 5 stars with 3 reviews",
+            "fulfillment-fulfillment-summary": "Get it today",
+            "fulfillment-fulfillment-summary 3": "Available today at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$249.00",
+            "sr-only 4": "Your price for this item is $249.00",
+            "open-box-option__link-medium": "from $231.99",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": "4 free months of Apple Fitness+ & 1 more",
+            "new-indicator": "New!"
+          },
+          {
+            "id":16,
+            "image-link href": "https://www.bestbuy.com/site/apple-watch-series-8-gps-cellular-45mm-gold-stainless-steel-case-with-gold-milanese-loop-gold/6495209.p?skuId=6495209",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6495/6495209_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Apple Watch Series 8 GPS + Cellular 45mm Gold Stainless Steel Case with Gold Milanese Loop - Gold",
+            "visually-hidden": "Not Yet Reviewed",
+            "fulfillment-fulfillment-summary": "Get it in 11 days",
+            "fulfillment-fulfillment-summary 3": "Order now for pickup on Thu, Oct 13 at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$799.00",
+            "sr-only 4": "Your price for this item is $799.00",
+            "open-box-option__link-medium": "",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": "4 free months of Apple Fitness+ & 1 more",
+            "new-indicator": "New!"
+          },
+          {
+            "id":17,
+            "image-link href": "https://www.bestbuy.com/site/apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-midnight/6340249.p?skuId=6340249",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6340/6340249_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Apple Watch Series 8 GPS 41mm Midnight Aluminum Case with Midnight Sport Band - M/L - Midnight",
+            "visually-hidden": "Rating 5 out of 5 stars with 3 reviews",
+            "fulfillment-fulfillment-summary": "Get it today",
+            "fulfillment-fulfillment-summary 3": "Available today at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "Act Fast – Only 1 left at your store!",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$399.00",
+            "sr-only 4": "Your price for this item is $399.00",
+            "open-box-option__link-medium": "from $358.99",
+            "fulfillment-fulfillment-summary 7": "This item is only available in certain markets.",
+            "pricing-price__savings": "",
+            "pricing-price__regular-price": "",
+            "pricing-price__regular-price 2": "",
+            "gift-with-purchase-price__free-gift-message-medium-inline": "4 free months of Apple Fitness+ & 1 more",
+            "new-indicator": "New!"
+          },
+          {
+            "id":18,
+            "image-link href": "https://www.bestbuy.com/site/citizen-cz-smart-hr-heart-rate-smartwatch-46mm-gray-ip-stainless-steel-bracelet-watch-powered-by-google-wear-os-gray/6439607.p?skuId=6439607",
+            "watch_prod_img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6439/6439607_sd.jpg;maxHeight=200;maxWidth=300",
+            "watch_title": "Citizen - CZ Smart HR Heart Rate Smartwatch 46mm Gray IP Stainless Steel bracelet Watch, Powered by Google Wear OS - Gray",
+            "visually-hidden": "Rating 3.8 out of 5 stars with 52 reviews",
+            "fulfillment-fulfillment-summary": "Get it in 9 days",
+            "fulfillment-fulfillment-summary 3": "Order now for pickup on Tue, Oct 11 at Aiea",
+            "c-button-link": "See all pickup locations",
+            "fulfillment-fulfillment-summary 4": "This item is only available in certain markets.",
+            "fulfillment-fulfillment-summary 5": "Shipping:",
+            "fulfillment-fulfillment-summary 6": "Unavailable in your area",
+            "watch_price": "$320.00",
+            "sr-only 4": "Your price for this item is $320.00",
+            "open-box-option__link-medium": "",
+            "fulfillment-fulfillment-summary 7": "",
+            "pricing-price__savings": "Save $75",
+            "pricing-price__regular-price": "Was $395.00",
+            "pricing-price__regular-price 2": "The previous price was $395.00",
+            "gift-with-purchase-price__free-gift-message-medium-inline": ""
+          }
+        ]
+  }
